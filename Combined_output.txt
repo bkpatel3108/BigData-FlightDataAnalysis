@@ -1,0 +1,42 @@
+
+Airlines Being On Schedule
+
+	lowest probability for being on schedule
+		PI	0.33778237063171457
+		EV	0.29294119882263187
+		FL	0.287812283022739
+	
+	highest probability for being on schedule
+		HA	0.08765742840810606
+		AQ	0.1452486972998579
+		ML (1)	0.19311621985271776
+	
+----------------------------------------------------------
+
+Airport Taxi In Time 
+	Max
+		CKB	183.0
+		LNY	88.01384083044982
+		PLN	13.248
+ 
+	Min
+		BFF	2.0
+		PVU	2.5
+		BRW	2.5396026004944603
+		
+Airport Taxi Out Time 
+	Max
+		ACK	31.285415212840196
+		SOP	30.766129032258064
+		ILG	26.15850144092219
+		
+	Min
+		MKK	4.510416666666667
+		KSM	6.111675126903553
+		VIS	6.263370332996972
+		
+----------------------------------------------------------
+
+Flight Cancellation Most Common Reason	
+	A	251193
+
