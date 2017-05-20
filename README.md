@@ -1,4 +1,4 @@
-Big Data Term Project https://web.njit.edu/~chasewu/
+Big Data Term Project
 
 # BigData-FlightDataAnalysis
 
@@ -16,7 +16,7 @@ out), respectively.
 c. The most common reason for flight cancellations.
 
 --------------------------------------------------------------------------------------------
-Do following observation using Oozie workflow
+Performed following observation using Oozie workflow
 
 1. Run Oozie workflow to analyze the entire data set (total 22 years from 1987 to 2008) at one
 time on two VMs first and then gradually increase the system scale to the maximum allowed number 
